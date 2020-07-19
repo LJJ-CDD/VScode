@@ -1,0 +1,7 @@
+{
+    "files.encoding": "gb2312",
+    "files.associations": {
+        "cmath": "cpp",
+        "iostream": "cpp"
+    }
+}
